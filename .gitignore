@@ -5,3 +5,5 @@
  
 *.exe
 *.o
+/SPK/Properties
+/SPK/obj
