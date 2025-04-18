@@ -9,7 +9,10 @@ public class spk
 	static char 
 		i = c, 
 		l = '1';
-
+	
+	//------l--------q-------
+	//pth'ch5.argv^~,s|-~^c|?
+	//------p--------z-------
 	public static void Main(string[] args)
 	{
 		try

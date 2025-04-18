@@ -1,19 +1,23 @@
 #include <iostream>
 #include <stdio.h>
-//#include "thar.c"
+
 using namespace std;
 
 const char 
-  T0 = '0', 
+  T0 = '0',
   C = 'c';
 static char
   I = C,
   L = '1';
 
+//------l--------q-------
+//pth'ch5.argv^~,s|-~^c|?
+//------p--------z-------
 int main(int argc, char** argv) 
 {
   try
-	{	  
+	{
+		//dup'3t (char)args fls^ash;fst^c
 		while (L != I && argv[static_cast<int>(I)] != &C)
 		{
 			printf("%d.%s", L, argv[static_cast<int>(I)]);
@@ -30,4 +34,3 @@ int main(int argc, char** argv)
 	}
 	return 0;
 }
-
