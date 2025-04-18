@@ -10,6 +10,7 @@ static char
   I = C,
   L = '1';
 
+//#dzp.1^lsh
 //------l--------q-------
 //pth'ch5.argv^~,s|-~^c|?
 //------p--------z-------
@@ -17,7 +18,7 @@ int main(int argc, char** argv)
 {
   try
 	{
-		//dup'3t (char)args fls^ash;fst^c
+		//dup'3t argc&argv fls^ash;fst^c
 		while (L != I && argv[static_cast<int>(I)] != &C)
 		{
 			printf("%d.%s", L, argv[static_cast<int>(I)]);

@@ -11,7 +11,7 @@ public class spk
 		l = '1';
 	
 	//------l--------q-------
-	//pth'ch5.argv^~,s|-~^c|?
+	//pth'ch5.args^~,s|-~^c|?
 	//------p--------z-------
 	public static void Main(string[] args)
 	{
