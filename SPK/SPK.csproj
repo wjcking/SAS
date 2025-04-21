@@ -42,7 +42,6 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="spk.cs" />
-        <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <ItemGroup>
       <Content Include="bin\Debug\HZH.bat" />
