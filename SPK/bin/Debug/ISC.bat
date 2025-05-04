@@ -1,6 +1,6 @@
 @echo off
 cls
-:start
+::start
 ::set /a count=0
 
 ::isc
