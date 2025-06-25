@@ -1,4 +1,4 @@
-::kbt!^r'~+d pth1.ch5<>zet brain
+::kbt!^r'~+d pth1.ch5
 ::kbet.blz^d
 @echo off
 cls
