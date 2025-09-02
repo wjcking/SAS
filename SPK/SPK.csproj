@@ -45,7 +45,7 @@
     </ItemGroup>
     <ItemGroup>
       <Content Include="bin\Debug\HZH.bat" />
-      <Content Include="bin\Debug\ISC.bat" />
+      <Content Include="bin\Debug\SAS.bat" />
       <Content Include="bin\Debug\KBET.bat" />
       <Content Include="bin\Debug\KDT.bat" />
     </ItemGroup>
