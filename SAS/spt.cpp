@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 		while (L != I && argv[static_cast<int>(I)] != &C)
 		{
 			printf("%d.%s", L, argv[static_cast<int>(I)]);
-			L++; //asm mov add
+			L++;
 		}
 	}
 	catch(const char* e)
