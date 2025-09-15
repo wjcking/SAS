@@ -21,7 +21,7 @@ public class spk
 			while (l != i && (char)args[l][t0] != c)
 			{
 				Console.Write((char)args[l][i]);
-				l++; //hzk.asm->spk->bat.cbt.spk
+				l++; //ast.hzk->spk->bat.cbt.spk
 			}
 		}
 		catch
