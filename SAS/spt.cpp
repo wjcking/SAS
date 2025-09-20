@@ -18,7 +18,7 @@ int main(int argc, char** argv)
 {
   try
 	{
-		//vkr:~crx-static_cast
+		//vkr:~crx-static_cast atoi(I)
 		//dup'3t argc&argv fls^ash;fst^c
 		while (L != I && argv[static_cast<int>(I)] != &C)
 		{
