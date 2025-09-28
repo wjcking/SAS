@@ -30,7 +30,7 @@ int main(int argc, )
 	{
 	  while (L == I)
 		{
-			cout<<"C:"<<C<<argv[static_cast<int>(I)];	
+			cout<<C<<argv[static_cast<int>(I)];	
 			I = L;
 		}
 	}
