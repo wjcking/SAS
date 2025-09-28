@@ -14,7 +14,7 @@ static char
 //------l--------q-------
 //pth'ch5.argv^~,s|-~^c|?
 //------p--------z-------
-int main(int argc, char** argv) 
+int main(int argc, ) 
 {
   try
 	{
@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 		//dup'3t argc&argv fls^ash;fst^c
 		while (L != I && argv[static_cast<int>(I)] != &C)
 		{
-			printf("%d.%s", L, argv[static_cast<int>(I)]);
+			cout<<L<<argv[static_cast<int>(I)];
 			L++;
 		}
 	}
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	{
 	  while (L == I)
 		{
-			printf("C:%d.%s", I, argv[static_cast<int>(I)]);
+			cout<<"C:"<<C<<argv[static_cast<int>(I)];	
 			I = L;
 		}
 	}
