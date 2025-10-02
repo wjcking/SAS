@@ -41,7 +41,7 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="spk.cs" />
+    <Compile Include="spk.cs" />
     </ItemGroup>
     <ItemGroup>
       <Content Include="bin\Debug\HZH.bat" />

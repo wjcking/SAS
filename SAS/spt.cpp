@@ -14,9 +14,9 @@ static char
 //------l--------q-------
 //pth'ch5.argv^~,s|-~^c|?
 //------p--------z-------
-int main(int argc, ) 
+int main(int argc, char** argv) 
 {
-  try
+	try
 	{
 		//vkr:~crx-static_cast atoi(I)
 		//dup'3t argc&argv fls^ash;fst^c
